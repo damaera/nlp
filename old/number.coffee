@@ -1,0 +1,3 @@
+extractNumber = (string) ->
+  # satu - sembilan
+  
